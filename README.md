@@ -1,4 +1,6 @@
-# my_leetcode_solutions
+# Solved leetcode problems
 Collecting leetcode problem solving code 
 
-[https://github.com/rasult22/my_leetcode_solutions/wiki/ReverseInteger](ReverseInteger)
+#### Links:
+[ReverseInteger](https://github.com/rasult22/my_leetcode_solutions/wiki/ReverseInteger)  
+[Two sum](https://github.com/rasult22/my_leetcode_solutions/wiki/Two-sum)
